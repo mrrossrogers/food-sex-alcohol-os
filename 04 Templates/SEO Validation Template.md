@@ -1,4 +1,4 @@
-# FSA OS Repository Foundation
+# SEO Validation Template
 
 Purpose
 

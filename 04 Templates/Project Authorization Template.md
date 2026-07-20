@@ -1,4 +1,4 @@
-# FSA OS Repository Foundation
+# Project Authorization Template
 
 Purpose
 

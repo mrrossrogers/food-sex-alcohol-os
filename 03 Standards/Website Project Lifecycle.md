@@ -1,4 +1,4 @@
-# FSA OS Repository Foundation
+# Website Project Lifecycle
 
 Purpose
 
